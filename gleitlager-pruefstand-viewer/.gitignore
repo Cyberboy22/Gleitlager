@@ -1,0 +1,6 @@
+# erzeugte Dateien
+export/
+ereignisse.csv
+uebersicht.csv
+*.asv
+octave-workspace

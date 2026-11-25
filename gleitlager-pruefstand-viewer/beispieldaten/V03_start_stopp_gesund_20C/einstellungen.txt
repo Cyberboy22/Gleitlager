@@ -1,0 +1,3 @@
+# Die Uhr des Sensorsystems (SiPB) geht in diesem Versuch 12 s vor.
+# Wert wird auf die SiPB-Zeit addiert.
+zeitversatz_s = -12
